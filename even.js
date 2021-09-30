@@ -7,3 +7,7 @@ const elevenIsEven = isEven(11);
 
 console.log(tenIsEven);
 console.log(elevenIsEven);
+
+// Code below is a short form and simplify of above
+// console.log(isEven(10));
+// console.log(isEven(11));
